@@ -1,0 +1,8 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Data files are not tracked; see README.md for where to download them
+data/*
+!data/.gitkeep
